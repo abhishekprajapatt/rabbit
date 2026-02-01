@@ -12,6 +12,7 @@ import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import { toast } from 'sonner';
 
+
 const CourseProgress = () => {
   const params = useParams();
   const courseId = params;
