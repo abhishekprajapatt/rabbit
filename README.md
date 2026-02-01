@@ -1,5 +1,4 @@
-# 📚 Learning Management System (LMS) Project Documentation
-
+# 📚 Learning Management System (LMS)
 <img width="659" alt="Screenshot 2025-02-08 112741" src="https://github.com/user-attachments/assets/e71547af-c9e0-44fb-8d82-4c0f2aa1903b" />
 
 ## 🌐 Project Overview
