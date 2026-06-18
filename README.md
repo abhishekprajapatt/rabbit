@@ -41,7 +41,7 @@ This **Learning Management System (LMS)** is a web application designed to strea
 - **Version Control**: Git and GitHub
 - **Project Management**: Trello/Asana
 
-## 📋 Prerequisites
+## 📋 Prerequisites 
 
 - **Node.js** and **npm** installed
 - **MongoDB** set up and running
@@ -52,7 +52,7 @@ This **Learning Management System (LMS)** is a web application designed to strea
 1. 📥 **Clone** the repository from GitHub.
 2. Navigate to the project directory and install dependencies:
    ```bash
-   npm install
+   npm install 
    ```
 3. 🛠️ Configure environment variables in a `.env` file:
    ```env
@@ -73,7 +73,8 @@ This **Learning Management System (LMS)** is a web application designed to strea
   ```
 - 🖥️ Perform manual testing through Postman or the frontend interface.
 
-## 🌍 Deployment
+
+## 🌍 Deployment 
 
 - 🌟 **Frontend** hosted on Vercel
 - ☁️ **Backend** hosted on Vercel
