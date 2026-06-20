@@ -80,7 +80,7 @@ This **Learning Management System (LMS)** is a web application designed to strea
 - ☁️ **Backend** hosted on Vercel
 - 💾 **Database** hosted on MongoDB Atlas.
 
-## 👥 Roles and Responsibilities
+## 👥 Roles and Responsibilities 
 
 - **🛡️ Admin**: Manage users and courses, view analytics.
 - **👩‍🏫 Instructor**: Create and manage courses, grade assignments.
